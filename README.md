@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Niteesha Balla</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">A passionate Data & Analytics Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niteeshaballa&label=Profile%20views&color=0e75b6&style=flat" alt="niteeshaballa" /> </p>
 
 - 🔭 I’m currently working on **Data Analysis projects**
 
-- 🌱 I’m currently learning **NLP and Generative AI**
+- 🌱 I’m currently learning **Data Modeling & Warehousing with different architectures**
 
 - 👨‍💻 All of my projects are available at **[github](https://github.com/Niteeshaballa)**
-
-- 📫 How to reach me **niteesha.balla@gmail.com**
-
-- 📄 Know about my experiences from my **[resume](https://docs.google.com/document/d/16Yvod4Fa2OjOB4BBQFCS20RZkAOgrWAq/edit?usp=sharing&ouid=109634300149257809401&rtpof=true&sd=true)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
